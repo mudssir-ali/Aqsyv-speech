@@ -8,14 +8,16 @@ body {
    }  
    h1 {  
     text-align: center;  
-    margin-top: 3rem;  
+    margin-top: 3rem; 
+    color: #262320;
+       
    }  
    .container {  
     display: flex;  
     justify-content: center;  
     height: 300px;  
     width: 500px;  
-    background-color: rgb(169, 155, 207);  
+    background-color: #DFE1E5;  
     font-size: 2rem;  
     padding: 1rem;  
     margin: 2rem;  
@@ -26,7 +28,7 @@ body {
     cursor: pointer;  
     font-size: 24px;  
     position: relative;  
-    background-color: #70a7e657;  
+    background-color: #FF7B4F;  
     border: none;  
     padding: 20px;  
     width: 200px;  
@@ -38,7 +40,7 @@ body {
    }  
    .button-three:hover {  
     background:rgb(201, 192, 226);
-    box-shadow: 0px 2px 10px 5px #2b47a3;  
+    box-shadow: 0px 2px 10px 5px #2b47a3 #6AC5DF;  
     color: rgba(0, 0, 0, 0);  
    }  
    .button-three:after {  
